@@ -7,7 +7,7 @@
 			"type": "process",
 			"args": [
 				"build",
-				"${workspaceFolder}/PropHunt/PropHunt.csproj",
+				"${workspaceFolder}/PropHunt.csproj",
 				"--output",
 				"build"
 			],
